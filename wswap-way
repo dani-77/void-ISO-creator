@@ -1,0 +1,2 @@
+#!/bin/sh
+swaybg -i $(find ~/Wallpaper/. -type f | shuf -n1) -m fill
